@@ -1,4 +1,4 @@
-# Super-store-EDA
+# Super-store-analysis
 
 The project revolves around leveraging machine learning techniques to analyze the Superstore dataset, perform Exploratory Data Analysis (EDA), and implement clustering algorithms. The goal is to gain valuable insights into customer behavior and optimize the store's operations based on the findings.
 
